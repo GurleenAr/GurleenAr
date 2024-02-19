@@ -11,7 +11,11 @@
 
 <h3 align="left">Hackathons Participated In:</h3>
 <p align="left">
-<a href="https://dev.to/https://devpost.com/software/historic-sites-finder?ref_content=my-projects-tab&ref_feature=my_projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devpost.com/software/historic-sites-finder?ref_content=my-projects-tab&ref_feature=my_projects" height="30" width="40" /></a>
+https://devpost.com/software/historic-sites-finder?ref_content=my-projects-tab&ref_feature=my_projects
+  - Collaborated in a team of 4 to create a Historic Site Finder to motivate Calgarians to further learn and explore the city
+  - Utilized React to develop the Login/Signup, and Historic Site pages
+  
+<!-- <a href="https://dev.to/https://devpost.com/software/historic-sites-finder?ref_content=my-projects-tab&ref_feature=my_projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devpost.com/software/historic-sites-finder?ref_content=my-projects-tab&ref_feature=my_projects" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
