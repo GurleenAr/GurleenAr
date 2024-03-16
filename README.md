@@ -9,6 +9,8 @@
 <p align="left">
 https://github.com/GurleenAr/Unity-2D-Platformer-Game
 <p align="left">
+Little Adventures Quick Playthrough: https://youtu.be/AmlTzwnJ3p8
+
 
 <h3 align="left">Hackathons Participated In:</h3>
 <p align="left">
