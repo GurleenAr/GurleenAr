@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurleen</h1>
 <h3 align="center">A 4th year Computer Science Student</h3>
 
-- 🔭 I’m currently working on **my 2D Platformer Game called "Little Adventures", web application called "HobbyHub, and a real time chat application"**
+- 🔭 I’m currently working on **my 2D Platformer Game called "Little Adventures", web application called "HobbyHub", and a real time chat application**
 
 - 🌱 I’m currently learning **React**
 
