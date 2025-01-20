@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my 2D Platformer Game called "Little Adventures", web application called "HobbyHub", and a real time chat application**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **AWS services**
 
 <h3 align="left">Little Adventures:</h3>
 <p align="left">
